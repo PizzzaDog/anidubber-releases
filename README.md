@@ -1,2 +1,20 @@
-# anidubber-releases
-AniDubber releases for macOS
+# AniDubber
+
+**Простая студия записи для дабберов.** Видео, субтитры и голосовые дорожки собраны в одном проекте, чтобы удобно записывать реплики под картинку.
+
+## Скачать
+
+| Платформа | Сборка | Как запустить |
+| --- | --- | --- |
+| macOS 14+ · Apple Silicon и Intel | [Скачать DMG 0.7.1](https://github.com/PizzzaDog/anidubber-releases/releases/download/v0.7.1/AniDubber-0.7.1.dmg) | Откройте образ и перетащите AniDubber в «Программы». |
+| Windows x64 | [Скачать ZIP 0.8.0](https://github.com/PizzzaDog/anidubber-releases/releases/download/windows-v0.8.0/AniDubber-Windows-x64.zip) | Распакуйте весь архив и запустите `AniDubber.exe` из распакованной папки. |
+
+На macOS новые версии можно проверять через меню **AniDubber → Проверить обновления…**. [Все релизы](https://github.com/PizzzaDog/anidubber-releases/releases)
+
+## Как проходит запись
+
+1. Откройте видео и файл субтитров, чтобы видеть реплики и их тайминг.
+2. Запишите дубли в проект, выберите удачные и при необходимости подрежьте их на дорожке.
+3. Экспортируйте голосовые дорожки в WAV или FLAC.
+
+Для чистки звука, эффектов и сведения откройте экспортированные дорожки в привычной DAW.
