@@ -1,20 +1,25 @@
 # AniDubber
 
-**Простая студия записи для дабберов.** Видео, субтитры и голосовые дорожки собраны в одном проекте, чтобы удобно записывать реплики под картинку.
+AniDubber is a recording studio for dubbing video. It keeps the picture, timed subtitles and voice tracks in one project so you can record each line in sync.
 
-## Скачать
+## Downloads
 
-| Платформа | Сборка | Как запустить |
+<!-- anidubber-releases:start -->
+
+| Platform | Download | What's new |
 | --- | --- | --- |
-| macOS 14+ · Apple Silicon и Intel | [Скачать DMG 0.7.1](https://github.com/PizzzaDog/anidubber-releases/releases/download/v0.7.1/AniDubber-0.7.1.dmg) | Откройте образ и перетащите AniDubber в «Программы». |
-| Windows x64 | [Скачать ZIP 0.8.0](https://github.com/PizzzaDog/anidubber-releases/releases/download/windows-v0.8.0/AniDubber-Windows-x64.zip) | Распакуйте весь архив и запустите `AniDubber.exe` из распакованной папки. |
+| macOS 14+ (Apple silicon and Intel) | [0.7.7 (DMG)](https://github.com/PizzzaDog/anidubber-releases/releases/download/v0.7.7/AniDubber-0.7.7.dmg) | Open MKV files without installing FFmpeg and choose how overlapping recordings play. [Release notes](https://github.com/PizzzaDog/anidubber-releases/releases/tag/v0.7.7) |
+| Windows x64 | [0.8.1 (ZIP)](https://github.com/PizzzaDog/anidubber-releases/releases/download/windows-v0.8.1/AniDubber-Windows-x64.zip) | New recordings and audio imports can play over an existing clip or replace just the overlapping section. [Release notes](https://github.com/PizzzaDog/anidubber-releases/releases/tag/windows-v0.8.1) |
 
-На macOS новые версии можно проверять через меню **AniDubber → Проверить обновления…**. [Все релизы](https://github.com/PizzzaDog/anidubber-releases/releases)
+<!-- anidubber-releases:end -->
 
-## Как проходит запись
+- **On macOS**, open the disk image and drag AniDubber into Applications. Use the update command in the AniDubber menu to check for new versions.
+- **On Windows**, extract the entire ZIP to its own folder and run `AniDubber.exe`. When the app offers an update, follow the link at the bottom of the window or download the current ZIP here.
 
-1. Откройте видео и файл субтитров, чтобы видеть реплики и их тайминг.
-2. Запишите дубли в проект, выберите удачные и при необходимости подрежьте их на дорожке.
-3. Экспортируйте голосовые дорожки в WAV или FLAC.
+[Browse all releases and release notes](https://github.com/PizzzaDog/anidubber-releases/releases)
 
-Для чистки звука, эффектов и сведения откройте экспортированные дорожки в привычной DAW.
+## Recording a dub
+
+1. Open a video and its subtitle file to see each line and its timing.
+2. Record your takes, pick the ones you want and trim them on the timeline.
+3. Export the voice tracks to WAV or FLAC. For audio cleanup, effects or mixing, open the exported tracks in your usual audio workstation.
