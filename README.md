@@ -9,7 +9,7 @@ AniDubber is a recording studio for dubbing video. It keeps the picture, timed s
 | Platform | Download | What's new |
 | --- | --- | --- |
 | macOS 14+ (Apple silicon and Intel) | [0.7.7 (DMG)](https://github.com/PizzzaDog/anidubber-releases/releases/download/v0.7.7/AniDubber-0.7.7.dmg) | Open MKV files without installing FFmpeg and choose how overlapping recordings play. [Release notes](https://github.com/PizzzaDog/anidubber-releases/releases/tag/v0.7.7) |
-| Windows x64 | [0.8.1 (ZIP)](https://github.com/PizzzaDog/anidubber-releases/releases/download/windows-v0.8.1/AniDubber-Windows-x64.zip) | New recordings and audio imports can play over an existing clip or replace just the overlapping section. [Release notes](https://github.com/PizzzaDog/anidubber-releases/releases/tag/windows-v0.8.1) |
+| Windows x64 | [0.8.2 (ZIP)](https://github.com/PizzzaDog/anidubber-releases/releases/download/windows-v0.8.2/AniDubber-Windows-x64.zip) | The time ruler stays in view as you scroll through tracks. A new recording preference lets you listen back to each phrase and continue recording from its end. [Release notes](https://github.com/PizzzaDog/anidubber-releases/releases/tag/windows-v0.8.2) |
 
 <!-- anidubber-releases:end -->
 
