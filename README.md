@@ -9,7 +9,7 @@ AniDubber is a recording studio for dubbing video. It keeps the picture, timed s
 | Platform | Download | What's new |
 | --- | --- | --- |
 | macOS 14+ (Apple silicon and Intel) | [0.7.9 (DMG)](https://github.com/PizzzaDog/anidubber-releases/releases/download/v0.7.9/AniDubber-0.7.9.dmg) | Name your audio export before rendering, and close the current project to start a fresh one in the same window. [Release notes](https://github.com/PizzzaDog/anidubber-releases/releases/tag/v0.7.9) |
-| Windows x64 | [0.8.2 (ZIP)](https://github.com/PizzzaDog/anidubber-releases/releases/download/windows-v0.8.2/AniDubber-Windows-x64.zip) | The time ruler stays in view as you scroll through tracks. A new recording preference lets you listen back to each phrase and continue recording from its end. [Release notes](https://github.com/PizzzaDog/anidubber-releases/releases/tag/windows-v0.8.2) |
+| Windows x64 | [0.8.3 (ZIP)](https://github.com/PizzzaDog/anidubber-releases/releases/download/windows-v0.8.3/AniDubber-Windows-x64.zip) | Close a project to start a fresh timeline, choose an export name without a prefilled extension, and use the newly aligned microphone and speaker buttons. [Release notes](https://github.com/PizzzaDog/anidubber-releases/releases/tag/windows-v0.8.3) |
 
 <!-- anidubber-releases:end -->
 
