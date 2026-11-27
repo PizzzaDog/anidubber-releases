@@ -8,7 +8,7 @@ AniDubber is a recording studio for dubbing video. It keeps the picture, timed s
 
 | Platform | Download | What's new |
 | --- | --- | --- |
-| macOS 14+ (Apple silicon and Intel) | [0.7.10 (DMG)](https://github.com/PizzzaDog/anidubber-releases/releases/download/v0.7.10/AniDubber-0.7.10.dmg) | AniDubber no longer freezes when headphones connect or disconnect, and recording in a long episode starts at once instead of stalling for a second. [Release notes](https://github.com/PizzzaDog/anidubber-releases/releases/tag/v0.7.10) |
+| macOS 14+ (Apple silicon and Intel) | [0.7.11 (DMG)](https://github.com/PizzzaDog/anidubber-releases/releases/download/v0.7.11/AniDubber-0.7.11.dmg) | The video's own sound keeps its volume and mute while you record. In 0.7.10 it could play at full level during a take. [Release notes](https://github.com/PizzzaDog/anidubber-releases/releases/tag/v0.7.11) |
 | Windows x64 | [0.8.4 (ZIP)](https://github.com/PizzzaDog/anidubber-releases/releases/download/windows-v0.8.4/AniDubber-Windows-x64.zip) | Adjust clip and track volume on the timeline, choose exactly what goes into a WAV or FLAC export, and move video or subtitles to a second monitor. [Release notes](https://github.com/PizzzaDog/anidubber-releases/releases/tag/windows-v0.8.4) |
 
 <!-- anidubber-releases:end -->
